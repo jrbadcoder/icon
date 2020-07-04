@@ -81,7 +81,7 @@ const delivery=require('./delivery.json')
 const design=require('./design.json')
 const diamond=require('./diamond.json')
 const disappointed=require('./disappointed.json')
-const document=require('./document.json')
+const document1=require('./document.json')
 const dollar=require('./dollar.json')
 const doubleTap=require('./double-tap.json')
 const downArrow=require('./down-arrow.json')
@@ -221,6 +221,184 @@ const ok=require('./ok.json')
 const okHand=require('./ok-hand.json')
 const oneFinger=require('./one-finger.json')
 const online=require('./on-line.json')
+const onlyCash=require('./only-cash.json')
+const openArchive=require('./open-archive.json')
+const openBox=require('./open-box.json')
+const openLetter=require('./open-letter.json')
+const openSign=require('./open-sign.json')
+const orderCompleted=require('./order-completed.json')
+const pageUnderConstruction=require('./page-under-construction.json')
+const paid=require('./paid.json')
+const paintRoller=require('./paint-roller.json')
+const palmScan=require('./palm-scan.json')
+const pause=require('./pause.json')
+const paymentProcessed=require('./payment-processed.json')
+const pencil=require('./pencil.json')
+const perfume=require('./perfume.json')
+const phonelinkRing=require('./phonelink-ring.json')
+const phoneRinging=require('./phone-ringing.json')
+const photoGallery=require('./photo-gallery.json')
+const piggyBank=require('./piggy-bank.json')
+const pin=require('./pin.json')
+const pinterestClick=require('./pinterest-click.json')
+const pinterestRotation=require('./pinterest-rotation.json')
+const pinterestScale=require('./pinterest-scale.json')
+const pinterestShake=require('./pinterest-shake.json')
+const placeMarker=require('./place-marker.json')
+const playButtonCircledClick=require('./play-button-circled-click.json')
+const playButtonCircledRotation=require('./play-button-circled-rotation.json')
+const playButtonCircledScale=require('./play-button-circled-scale.json')
+const playButtonCircledShake=require('./play-button-circled-shake.json')
+const playLoad=require('./play-load.json')
+const playRecord=require('./play-record.json')
+const poo=require('./poo.json')
+const porridge=require('./porridge.json')
+const portraitModeScanning=require('./portrait-mode-scanning.json')
+const posTerminal=require('./pos-terminal.json')
+const previousLocation=require('./previous-location.json')
+const print=require('./print.json')
+const prize=require('./prize.json')
+const pullups=require('./pullups.json')
+const puzzled=require('./puzzled.json')
+const qrCode=require('./qr-code.json')
+const quick=require('./quick.json')
+const rainCloudWeather=require('./rain-cloud-weather.json')
+const rainCloudWeather2=require('./rain-cloud-weather-2.json')
+const rainyWeather=require('./rainy-weather.json')
+const receipt=require('./receipt.json')
+const reddit=require('./reddit.json')
+const refresh=require('./refresh.json')
+const refreshCloud=require('./refresh-cloud.json')
+const refreshFolder=require('./refresh-folder.json')
+const refreshWait=require('./refresh-wait.json')
+const restart=require('./restart.json')
+const rhombus=require('./rhombus.json')
+const rollerScating=require('./roller-scating.json')
+const rotate=require('./rotate.json')
+const rowBoat=require('./row-boat.json')
+const rugby=require('./rugby.json')
+const runningCircle1=require('./running-circle-1.json')
+const runningCircle2=require('./running-circle-2.json')
+const runningCircle3=require('./running-circle-3.json')
+const runningHeart=require('./running-heart.json')
+const runningInfinity=require('./running-infinity.json')
+const salad=require('./salad.json')
+const saveChanges=require('./save-changes.json')
+const scrollDownHand=require('./scroll-down-hand.json')
+const searchCancel=require('./search-cancel.json')
+const searching=require('./searching.json')
+const settings=require('./settings.json')
+const share=require('./share.json')
+const shield=require('./shield.json')
+const shipped=require('./shipped.json')
+const shocker=require('./shocker.json')
+const shopping=require('./shopping.json')
+const shoppingBag=require('./shopping-bag.json')
+const shuttercock=require('./shuttercock.json')
+const signOut=require('./sign-out.json')
+const silent=require('./silent.json')
+const skateboarding=require('./skateboarding.json')
+const skipBackwards=require('./skip-backwards.json')
+const skipForwards=require('./skip-forwards.json')
+const sleeping=require('./sleeping.json')
+const smile=require('./smile.json')
+const snapchat=require('./snapchat.json')
+const snowStormWeather=require('./snow-storm-weather.json')
+const soccerBall=require('./soccer-ball.json')
+const sound=require('./sound.json')
+const speech=require('./speech.json')
+const spinner1=require('./spinner-1.json')
+const spinner2=require('./spinner-2.json')
+const spinner3=require('./spinner-3.json')
+const spinner4=require('./spinner-4.json')
+const spinner5=require('./spinner-5.json')
+const spinningArrows=require('./spinning-arrows.json')
+const spinningCircle1=require('./spinning-circle-1.json')
+const spinningCircle2=require('./spinning-circle-2.json')
+const squareLines=require('./square-lines.json')
+const star=require('./star.json')
+const stop=require('./stop.json')
+const stormyWeather=require('./stormy-weather.json')
+const submitProgress=require('./submit-progress.json')
+const subscribe1=require('./subscribe-1.json')
+const subscribe2=require('./subscribe-2.json')
+const subscribe3=require('./subscribe-3.json')
+const sunriseWeather=require('./sunrise-weather.json')
+const sunsetWeather=require('./sunset-weather.json')
+const sunWeather=require('./sun-weather.json')
+const sup=require('./sup.json')
+const swissArmyKnife=require('./swiss-army-knife.json')
+const switch1=require('./switch.json')
+const synchronizeCloud=require('./synchronize-cloud.json')
+const synchronizeFolder=require('./synchronize-folder.json')
+const tap=require('./tap.json')
+const tea=require('./tea.json')
+const temperatureWeather=require('./temperature-weather.json')
+const threeCircles=require('./three-circles.json')
+const threeFingers=require('./three-fingers.json')
+const thumb=require('./thumb.json')
+const thumbUp=require('./thumb-up.json')
+const toggle=require('./toggle.json')
+const tongueOut=require('./tongue-out.json')
+const torrentialRainWeather=require('./torrential-rain-weather.json')
+const trash=require('./trash.json')
+const trashBin=require('./trash-bin.json')
+const trophy=require('./trophy.json')
+const tune=require('./tune.json')
+const twitFlying=require('./twit-flying.json')
+const twitter=require('./twitter.json')
+const twitterCircledClick=require('./twitter-circled-click.json')
+const twitterCircledRotation=require('./twitter-circled-rotation.json')
+const twitterCircledScale=require('./twitter-circled-scale.json')
+const twitterCircledShake=require('./twitter-circled-shake.json')
+const twoCircles1=require('./two-circles-1.json')
+const twoCircles2=require('./two-circles-2.json')
+const twoCircles3=require('./two-circles-3.json')
+const twoCircles4=require('./two-circles-4.json')
+const twoFingers=require('./two-fingers.json')
+const typing=require('./typing.json')
+const uninstallingUpdates=require('./uninstalling-updates.json')
+const unlock=require('./unlock.json')
+const unsubscribed=require('./unsubscribed.json')
+const upDown=require('./up-down.json')
+const upgrade=require('./upgrade.json')
+const upload=require('./upload.json')
+const uploadToCloud=require('./upload-to-cloud.json')
+const viber=require('./viber.json')
+const videoEditing=require('./video-editing.json')
+const videoRecord=require('./video-record.json')
+const vkCircledClick=require('./vk-circled-click.json')
+const vkCircledRotation=require('./vk-circled-rotation.json')
+const vkCircledScale=require('./vk-circled-scale.json')
+const vkCircledShake=require('./vk-circled-shake.json')
+const volleyball=require('./volleyball.json')
+const volume1=require('./volume-1.json')
+const volume2=require('./volume-2.json')
+const vomited=require('./vomited.json')
+const voxPlayer=require('./vox-player.json')
+const walk=require('./walk.json')
+const wallet=require('./wallet.json')
+const warning1=require('./warning-1.json')
+const warning2=require('./warning-2.json')
+const warningBlink=require('./warning-blink.json')
+const whatsappClick=require('./whatsapp-click.json')
+const whatsappRotation=require('./whatsapp-rotation.json')
+const whatsappScale=require('./whatsapp-scale.json')
+const whatsappShake=require('./whatsapp-shake.json')
+const wifiSearch=require('./wifi-search.json')
+const windyCloudWeather=require('./windy-cloud-weather.json')
+const windyWeather=require('./windy-weather.json')
+const wink=require('./wink.json')
+const withdrawal=require('./withdrawal.json')
+const wordpressClick=require('./wordpress-click.json')
+const wordpressRotation=require('./wordpress-rotation.json')
+const wordpressScale=require('./wordpress-scale.json')
+const wordpressShake=require('./wordpress-shake.json')
+const youtube=require('./youtube.json')
+const youtubePlay=require('./youtube-play.json')
+const yummy=require('./yummy.json')
+const zoom=require('./zoom.json')
+
 export const IconNames = {
     activity,
     add,
@@ -232,15 +410,15 @@ export const IconNames = {
     alert,
     alphabeticalSorting,
     angel,
-    angryCat ,
+    angryCat,
     attentionCloud,
     badGateway,
     bankCard,
     basketBall,
-    beatingHearts ,
-    bell ,
+    beatingHearts,
+    bell,
     benchPress,
-    birthdayCake ,
+    birthdayCake,
     blockMic,
     blushing,
     book,
@@ -255,194 +433,372 @@ export const IconNames = {
     calendarHeart,
     calendarTear,
     cameraOff,
-    canoe ,
-    caps ,
-    car ,
-    cassette ,
-    catMeow ,
-    cd ,
-    cd2 ,
-    chat ,
-    check ,
-    checkCircle ,
-    checkCircled ,
-    checkmarkOk ,
+    canoe,
+    caps,
+    car,
+    cassette,
+    catMeow,
+    cd,
+    cd2,
+    chat,
+    check,
+    checkCircle,
+    checkCircled,
+    checkmarkOk,
     chocolateBar,
     cinema,
-    circlesMenu1 ,
-    circlesMenu2 ,
-    circlesMenu3 ,
-    circlesMenu4 ,
-    circlesMenu5 ,
-    circlesMenu6 ,
-    circlesMenu7 ,
-    circleSquare1 ,
-    circleSquare2 ,
-    circleSquareTriangle ,
-    clearFilter ,
-    clock ,
-    cloud ,
-    cloudyWeather ,
-    coffee ,
-    coins ,
-    cola ,
-    comeBackLater ,
-    compas ,
-    computerDisplay ,
-    confused ,
-    cool ,
-    counter ,
-    createOrder ,
-    crying ,
-    cursor ,
-    dayNightWeather ,
+    circlesMenu1,
+    circlesMenu2,
+    circlesMenu3,
+    circlesMenu4,
+    circlesMenu5,
+    circlesMenu6,
+    circlesMenu7,
+    circleSquare1,
+    circleSquare2,
+    circleSquareTriangle,
+    clearFilter,
+    clock,
+    cloud,
+    cloudyWeather,
+    coffee,
+    coins,
+    cola,
+    comeBackLater,
+    compas,
+    computerDisplay,
+    confused,
+    cool,
+    counter,
+    createOrder,
+    crying,
+    cursor,
+    dayNightWeather,
     deadlift,
     delet,
-    deleteCloud ,
-    deleteConfirmation ,
-    deleteFolder ,
-    delivery ,
-    design ,
-    diamond ,
-    disappointed ,
-    document ,
-    dollar ,
-    doubleTap ,
-    downArrow ,
-    download ,
-    downloadFolder ,
-    downloadFromCloud ,
-    dragLeft ,
-    dragRight ,
-    dribbbleCircledClick ,
-    dribbbleCircledRotation ,
-    dribbbleCircledScale ,
+    deleteCloud,
+    deleteConfirmation,
+    deleteFolder,
+    delivery,
+    design,
+    diamond,
+    disappointed,
+    document1,
+    dollar,
+    doubleTap,
+    downArrow,
+    download,
+    downloadFolder,
+    downloadFromCloud,
+    dragLeft,
+    dragRight,
+    dribbbleCircledClick,
+    dribbbleCircledRotation,
+    dribbbleCircledScale,
     dribbbleCircledShake,
-    dumbbell ,
-    edit ,
-    editCancel ,
-    editOk ,
-    embarrassed ,
+    dumbbell,
+    edit,
+    editCancel,
+    editOk,
+    embarrassed,
     energyDrink ,
-    engagementRing ,
-    expand ,
-    expandWindow ,
-    expensive ,
-    eye ,
-    facebook ,
-    facebookCircledClick ,
+    engagementRing,
+    expand,
+    expandWindow,
+    expensive,
+    eye,
+    facebook,
+    facebookCircledClick,
     facebookCircledRotation,
-    facebookCircledScale ,
-    facebookCircledShake ,
-    facebookLike ,
-    facebookLikeMorph ,
-    facebookLikeUnlike ,
-    facebookMessengerClick ,
-    facebookMessengerRotation ,
-    facebookMessengerScale ,
-    facebookMessengerShake ,
-    faceId ,
-    fatalError ,
-    favoriteCloud ,
-    favoriteFolder ,
-    fidgetSpinner ,
-    filmReel ,
-    filmRoll ,
+    facebookCircledScale,
+    facebookCircledShake,
+    facebookLike,
+    facebookLikeMorph,
+    facebookLikeUnlike,
+    facebookMessengerClick,
+    facebookMessengerRotation,
+    facebookMessengerScale,
+    facebookMessengerShake,
+    faceId,
+    fatalError,
+    favoriteCloud,
+    favoriteFolder,
+    fidgetSpinner,
+    filmReel,
+    filmRoll,
     fireInMyHeart,
-    flag ,
-    flyElephant ,
-    fogWeather ,
-    folder ,
-    folderWithFile ,
-    forward ,
-    fourFingers ,
-    fullScreen ,
+    flag,
+    flyElephant,
+    fogWeather,
+    folder,
+    folderWithFile,
+    forward,
+    fourFingers,
+    fullScreen,
     ghost,
-    gift ,
-    giftHeart ,
-    globe ,
-    good ,
-    guarantee ,
-    handPeace ,
-    handScissors ,
-    hazeWeather ,
-    heart ,
-    heartInHand ,
+    gift,
+    giftHeart,
+    globe,
+    good,
+    guarantee,
+    handPeace,
+    handScissors,
+    hazeWeather,
+    heart,
+    heartInHand,
     heartLock,
-    heartWithArrow ,
-    helpCloud ,
-    home ,
-    home2 ,
-    hourGlass ,
-    iconListView ,
+    heartWithArrow,
+    helpCloud,
+    home,
+    home2,
+    hourGlass,
+    iconListView,
     idea,
-    inLove ,
+    inLove,
     instagram3D,
-    instagramShot ,
-    install ,
-    installingUpdates ,
-    internet ,
-    iphoneSpinner1 ,
-    iphoneSpinner2 ,
-    itunes ,
-    kawaii ,
-    kissPanda ,
-    laughing ,
-    leftRight ,
-    letterWithHearts ,
-    lightningBoltWeather ,
-    lightningWeather ,
-    lightOn ,
-    lightRainCloudWeather ,
-    lightRainWeather ,
-    lightSnowyWeather ,
-    linkedinBounce ,
-    linkedinCircledClick ,
-    linkedinCircledRotation ,
-    linkedinCircledScale ,
-    linkedinCircledShake ,
-    lips ,
-    listIsEmpty ,
-    liveVideoOn ,
-    loadFromCloud ,
-    loadingBar ,
-    login ,
-    mailbox ,
-    maneki ,
-    map ,
+    instagramShot,
+    install,
+    installingUpdates,
+    internet,
+    iphoneSpinner1,
+    iphoneSpinner2,
+    itunes,
+    kawaii,
+    kissPanda,
+    laughing,
+    leftRight,
+    letterWithHearts,
+    lightningBoltWeather,
+    lightningWeather,
+    lightOn,
+    lightRainCloudWeather,
+    lightRainWeather,
+    lightSnowyWeather,
+    linkedinBounce,
+    linkedinCircledClick,
+    linkedinCircledRotation,
+    linkedinCircledScale,
+    linkedinCircledShake,
+    lips,
+    listIsEmpty,
+    liveVideoOn,
+    loadFromCloud,
+    loadingBar,
+    login,
+    mailbox,
+    maneki,
+    map,
     mapMarker,
-    mapPointer ,
-    medalFirstPlace ,
-    medalSecondPlace ,
+    mapPointer,
+    medalFirstPlace,
+    medalSecondPlace,
     medalThirdPlace,
-    medium ,
-    menuArrow ,
+    medium,
+    menuArrow,
     menuBack,
-    menuClose ,
-    menuForward ,
-    menuMinus ,
-    menuOPenAndClose ,
-    messageSent ,
-    middleFinger ,
-    missedCall ,
-    money ,
-    movie ,
-    mug ,
-    mute ,
-    nerd ,
-    neutral ,
-    nightWeather ,
-    noComments ,
-    noConnection ,
-    noMessages ,
-    noMic ,
+    menuClose,
+    menuForward,
+    menuMinus,
+    menuOPenAndClose,
+    messageSent,
+    middleFinger,
+    missedCall,
+    money,
+    movie,
+    mug,
+    mute,
+    nerd,
+    neutral,
+    nightWeather,
+    noComments,
+    noConnection,
+    noMessages,
+    noMic,
     noMobilePhones,
-    noReminders ,
-    noSound ,
-    noVideo ,
+    noReminders,
+    noSound,
+    noVideo,
     numericalSorting,
-    ok ,
-    okHand ,
-    oneFinger ,
-    online
+    ok,
+    okHand,
+    oneFinger,
+    online,
+    onlyCash,
+    openArchive,
+    openBox,
+    openLetter,
+    openSign,
+    orderCompleted,
+    pageUnderConstruction,
+    paid,
+    paintRoller,
+    palmScan,
+    pause,
+    paymentProcessed,
+    pencil,
+    perfume,
+    phonelinkRing,
+    phoneRinging,
+    photoGallery,
+    piggyBank,
+    pin,
+    pinterestClick,
+    pinterestRotation,
+    pinterestScale,
+    pinterestShake,
+    placeMarker,
+    playButtonCircledClick,
+    playButtonCircledRotation,
+    playButtonCircledScale,
+    playButtonCircledShake,
+    playLoad,
+    playRecord,
+    poo,
+    porridge,
+    portraitModeScanning,
+    posTerminal,
+    previousLocation,
+    print,
+    prize,
+    pullups,
+    puzzled,
+    qrCode,
+    quick,
+    rainCloudWeather,
+    rainCloudWeather2,    
+    rainyWeather,
+    receipt,
+    reddit,
+    refresh,
+    refreshCloud,
+    refreshFolder,
+    refreshWait,
+    restart,
+    rhombus,
+    rollerScating,
+    rotate,
+    rowBoat,
+    rugby,
+    runningCircle1,
+    runningCircle2,
+    runningCircle3,
+    runningHeart,
+    runningInfinity,
+    salad,
+    saveChanges,
+    scrollDownHand,
+    searchCancel,
+    searching,
+    settings,
+    share,
+    shield,
+    shipped,
+    shocker,
+    shopping,
+    shoppingBag,
+    shuttercock,
+    signOut,
+    silent,
+    skateboarding,
+    skipBackwards,
+    skipForwards,
+    sleeping,
+    smile,
+    snapchat,
+    snowStormWeather,
+    soccerBall,
+    sound,
+    speech,
+    spinner1,
+    spinner2,
+    spinner3,
+    spinner4,
+    spinner5,
+    spinningArrows,
+    spinningCircle1,
+    spinningCircle2,
+    squareLines,
+    star,
+    stop,
+    stormyWeather,
+    submitProgress,
+    subscribe1,
+    subscribe2,
+    subscribe3,
+    sunriseWeather,
+    sunsetWeather,
+    sunWeather,
+    sup,
+    swissArmyKnife,
+    switch1,
+    synchronizeCloud,
+    synchronizeFolder,
+    tap,
+    tea,
+    temperatureWeather,
+    threeCircles,
+    threeFingers,
+    thumb,
+    thumbUp,
+    toggle,
+    tongueOut,
+    torrentialRainWeather,
+    trash,
+    trashBin,
+    trophy,
+    tune,
+    twitFlying,
+    twitter,
+    twitterCircledClick,
+    twitterCircledRotation,
+    twitterCircledScale,
+    twitterCircledShake,
+    twoCircles1,
+    twoCircles2,
+    twoCircles3,
+    twoCircles4,
+    twoFingers,
+    typing,
+    uninstallingUpdates,
+    unlock,
+    unsubscribed,
+    upDown,
+    upgrade,
+    upload,
+    uploadToCloud,
+    viber,
+    videoEditing,
+    videoRecord,
+    vkCircledClick,
+    vkCircledRotation,
+    vkCircledScale,
+    vkCircledShake,
+    volleyball,
+    volume1,
+    volume2,
+    vomited,
+    voxPlayer,
+    walk,
+    wallet,
+    warning1,
+    warning2,
+    warningBlink,
+    whatsappClick,
+    whatsappRotation,
+    whatsappScale,
+    whatsappShake,
+    wifiSearch,
+    windyCloudWeather,
+    windyWeather,
+    wink,
+    withdrawal,
+    wordpressClick,
+    wordpressRotation,
+    wordpressScale,
+    wordpressShake,
+    youtube,
+    youtubePlay,
+    yummy,
+    zoom
+
 }
